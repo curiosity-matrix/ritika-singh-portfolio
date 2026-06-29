@@ -60,7 +60,7 @@ Every project card inside my portfolio connects directly to its respective codeb
 ## 🏆 Credentials at a Glance
 
 * **B.Tech:** Artificial Intelligence & Machine Learning (SRMCEM Lucknow · AKTU) — Class of 2027.
-* **GPA:** 8.57 / 10 (Combat GPA)
+* **GPA:** 8.50 / 10 (Combat GPA)
 * **Leadership:** Student Council President (2025–26) and Student Council Representative (2023–25).
 * **Vibe:** Understanding *why* a model works, asking hard questions, and coding in a conversational way. 👩🏻‍💻
 
