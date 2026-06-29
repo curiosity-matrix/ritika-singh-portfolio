@@ -71,4 +71,4 @@ This portfolio taught me that user experience is not just about placing buttons 
 
 Sometimes, the best way to understand your code... is to have a little conversation with it. And yes, sometimes even your browser viewport just needs a little 3D perspective shift. ❤️
 
-*Built in a conversational partnership with Google DeepMind's Antigravity AI coding assistant — because as an AI & ML engineer, why code alone when you can build with the machine? Yes, this portfolio is 100% AI-generated and proud of it! 🤖*
+*Built in a conversational partnership with Google DeepMind's Antigravity AI coding assistant — because as an AI & ML engineer, why code alone when you can build with the machine? ## Yes, this portfolio is 100% AI-generated and proud of it! 🤖*
