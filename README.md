@@ -11,7 +11,7 @@ And guess what? That is exactly how this portfolio behaves. It responds to your 
 ---
 
 ## 🔗 Live Console View
-👉 **[ritika-singh-portfolio.netlify.app](https://ritika-singh-portfolio.netlify.app)**
+👉 **[ritika-singh-portfolio.netlify.app](https://ritikasingh-portfolio.netlify.app)**
 
 ---
 
